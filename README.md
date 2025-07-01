@@ -13,7 +13,7 @@ class Intexpression {
 let me = new Intexpression("He" || "Him" || "His");
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,vue,cs,cloudflare,idea,js,maven,nextjs,py&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,cs,cloudflare,git,java,lua,maven,mongodb,py,vue&theme=dark)](https://skillicons.dev)
 
 
 
