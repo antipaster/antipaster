@@ -1,19 +1,27 @@
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,cs,cloudflare,git,java,lua,maven,mongodb,py,vue&theme=dark)](https://skillicons.dev)
 
 
 ```javascript
 class Intexpression {
-  skills = ["Data Structures", "Ui's", "Databases", "REST APIs"];
-  get currentlyLearning() {
-    return "Operating Systems";
-  }
-  constructor(pronouns) {
-    this.pronouns = pronouns;
+  pronouns = "He/Him";
+  skills = [
+    "UI Development",
+    "Database Integration",
+    "REST API's",
+    "Game Modding",
+    "Reverse Engineering",
+    "Web Automation",
+    "Web Scraping",
+    "Memory Manipulation"
+  ];
+  currentlyLearning = ["Kotlin","Swift"];
+
+  constructor() {
+    console.log("👋 Hi, I’m Intexpression!");
   }
 }
-let me = new Intexpression("He" || "Him" || "His");
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,cs,cloudflare,git,java,lua,maven,mongodb,py,vue&theme=dark)](https://skillicons.dev)
 
 
 
