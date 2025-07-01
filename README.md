@@ -16,6 +16,10 @@ class Intexpression {
   ];
   currentlyLearning = ["Kotlin","Swift"];
 
+  contact = {
+    discord: "cbzc"
+  };
+
   constructor() {
     console.log("👋 Hi, I’m Intexpression!");
   }
