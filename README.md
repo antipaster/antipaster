@@ -19,10 +19,6 @@ class Intexpression {
   contact = {
     discord: "cbzc"
   };
-
-  constructor() {
-    console.log("👋 Hi, I’m Intexpression!");
-  }
 }
 ```
 
