@@ -12,7 +12,6 @@ class Intexpression {
     "Reverse Engineering",
     "Web Automation",
     "Web Scraping",
-    "Memory Manipulation"
   ];
   currentlyLearning = ["Kotlin","Swift"];
 
