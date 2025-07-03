@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,cs,cloudflare,git,java,lua,maven,mongodb,py,vue&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,cs,cpp,cloudflare,git,java,lua,maven,mongodb,py,vue&theme=dark)](https://skillicons.dev)
 
 
 ```javascript
