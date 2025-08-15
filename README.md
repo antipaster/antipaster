@@ -13,7 +13,7 @@ class Intexpression {
     "Web Automation",
     "Web Scraping",
   ];
-  currentlyLearning = ["Kotlin","Swift"];
+
 
   contact = {
     discord: "cbzc"
